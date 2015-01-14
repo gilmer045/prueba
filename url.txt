@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=BlnUi-2DmsQ
+
+
+el espectro electromagnetico de los dispositivos wifi
+
+######################################3
+ es Exel y consiste en lo siguiente: 
+
+- 20 ejercicios de SI CONDICIONALES (es para cada una)
+- 20 ejercicios de SI ANIDADOS (es para cada una) 
+- 10 funciones de BÚSQUEDA EN EXEL (es para cada una)
+Todo esto es para el día martes 25 de noviembre, 
+hasta las 12 del mediodía, que tenemos que presentar, 
+y pues quisiera que lo resuelves lo más antes posible
+
+OJO: Que venga con fórmulas, tanto en SI CONDICIONALES 
+Y SI ANIDADOS, que no sea copia y pega del internet.
